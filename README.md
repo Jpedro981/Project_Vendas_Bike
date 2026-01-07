@@ -22,8 +22,6 @@ Transformar dados brutos em informações claras, visuais e acionáveis para an�
 (Imagens na pasta /images)
 
 ## 📁 Estrutura do projeto
-- `/data` – base de dados
-- `/sql` – query de extração
 - `/powerbi` – arquivo do dashboard
 - `/figma` – layout visual
 - `/images` – prints do dashboard
